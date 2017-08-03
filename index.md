@@ -1,6 +1,6 @@
 # Index
 
-[Home]home.md
+[Home](home.md)
 
 ## Welcome to GitHub Pages
 
