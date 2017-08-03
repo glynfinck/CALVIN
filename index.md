@@ -1,6 +1,6 @@
 ## Welcome to CALVIN's Website
 
-Calvin was created by Keenan McConkey, Austin Khorram, and Glyn Finck for the University of British Columbia's Engineering Physic program's annual robot competition. This years competition involved line following, reading IR beacons, picking up toys (or "agents" as we called them), and putting these toys into a box to be sent down a zipline. CALVIN has a bunch of features use to complete this difficult challenge.
+Calvin was created by @KeenanMcConkey, @AustinKhorram, and @GlynFinck for the University of British Columbia's Engineering Physic program's annual robot competition. This years competition involved line following, reading IR beacons, picking up toys ("agents" as we called them), and putting these toys into a box to be sent down a zipline. CALVIN has a bunch of features use to complete this difficult challenge.
 
 ### CALVIN's Features
 
@@ -13,6 +13,10 @@ Calvin was created by Keenan McConkey, Austin Khorram, and Glyn Finck for the Un
 ### Navigating this site
 
 Check out all the different pages to find out about all of CALVIN's different features.
+
+[Mechanical](mechanical.md)
+[Electrical](electrical.md)
+[Software](software.md)
 
 ### Support or Contact
 
