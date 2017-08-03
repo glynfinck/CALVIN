@@ -2,6 +2,8 @@
 
 Calvin was created by @KeenanMcConkey, @AustinKhorram, and @GlynFinck for the University of British Columbia's Engineering Physic program's annual robot competition. This years competition involved line following, reading IR beacons, picking up toys ("agents" as we called them), and putting these toys into a box to be sent down a zipline. CALVIN has a bunch of features use to complete this difficult challenge.
 
+![TINAH Box](images/tinah_box.png)
+
 ### CALVIN's Features
 
 * Line Detectors
@@ -14,9 +16,9 @@ Calvin was created by @KeenanMcConkey, @AustinKhorram, and @GlynFinck for the Un
 
 Check out all the different pages to find out about all of CALVIN's different features.
 
-[Mechanical](mechanical.md)
-[Electrical](electrical.md)
-[Software](software.md)
+* [Mechanical](mechanical.md)
+* [Electrical](electrical.md)
+* [Software](software.md)
 
 ### Support or Contact
 
