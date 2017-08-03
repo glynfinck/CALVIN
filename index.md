@@ -1,41 +1,21 @@
-# Index
+## Welcome to CALVIN's Website
 
-[Home](home.md)
+Calvin was created by Keenan McConkey, Austin Khorram, and Glyn Finck for the University of British Columbia's Engineering Physic program's annual robot competition. This years competition involved line following, reading IR beacons, picking up toys (or "agents" as we called them), and putting these toys into a box to be sent down a zipline. CALVIN has a bunch of features use to complete this difficult challenge.
 
-## Welcome to GitHub Pages
+### CALVIN's Features
 
-You can use the [editor on GitHub](https://github.com/KeenanMcConkey/CALVIN/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* Line Detectors
+* IR Beacon Detectors
+* Incline Detection Switches
+* Modular H-Bridges
+* Crane-based Grabbing Arm
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Navigating this site
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KeenanMcConkey/CALVIN/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Check out all the different pages to find out about all of CALVIN's different features.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can reach individual team membesr at our team email address.
+
+CALVINteam@gmail.com
