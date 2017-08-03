@@ -24,4 +24,4 @@ Check out all the different pages to find out about all of CALVIN's different fe
 
 You can reach the team members at our team email address.
 
-CALVINteam@gmail.com
+[CALVINteam@gmail.com](CALVINteam@gmail.com)
