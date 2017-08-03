@@ -1,4 +1,5 @@
-## Welcome to CALVIN's Website
+Welcome to CALVIN's Website
+======
 
 Calvin was created by Keenan McConkey, Austin Khorram, and Glyn Finck for the University of British Columbia's Engineering Physics program's annual robot competition. This year's competition involved various tasks the robot must be able to execute such as line following, reading infrared beacons, picking up toys ("agents" as we called them) off platforms in a bucket filled with water and putting these toys into a box to be sent down a zip-line back to the beginning of the course. CALVIN has numerous features he uses as he attempts to complete this difficult challenge and rescue the agents!
 
