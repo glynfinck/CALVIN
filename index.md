@@ -12,7 +12,7 @@ Calvin was created by Keenan McConkey, Austin Khorram, and Glyn Finck for the Un
 * Incline Detection Switches
 * Modular H-Bridges and IR Signal Filters
 * Servo Motor and Gear Actuated Crane, Arm, and Grabbing Claw
-* TINAH Board (Arduino Variant)
+* TINAH Board (Arduino Board Variant)
 
 ### Navigating this site
 
@@ -21,6 +21,8 @@ Check out the pages below to learn more about CALVIN's different features.
 * [Mechanical](mechanical.md)
 * [Electrical](electrical.md)
 * [Software](software.md)
+
+### Photo Gallery
 
 ### Support or Contact
 
