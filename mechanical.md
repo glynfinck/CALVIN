@@ -10,7 +10,7 @@ The majority of CALVIN's components were fabricated out of hardboard material of
 
 ![Main Chassis](images/Robot_Drawing_CHASSIS.PNG)
 
-<img src="https://github.com/KeenanMcConkey/CALVIN/blob/master/images/Robot_Drawing_CHASSIS.PNG" width="537" height="667" />
+<img src="https://github.com/KeenanMcConkey/CALVIN/blob/master/images/Robot_Drawing_CHASSIS.PNG" width="400" height="500" />
 
 #### Arm
 
