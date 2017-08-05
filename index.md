@@ -8,7 +8,7 @@ Calvin was created by Keenan McConkey, Austin Khorram, and Glyn Finck for the Un
 ### CALVIN's Main Features
 
 * Wooden Chassis
-* Black Tape Detectors
+* Black Tape Detectors   
 * Infrared Beacon Detectors
 * Incline Detection Switches
 * Modular H-Bridges and IR Signal Filters
