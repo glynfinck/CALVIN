@@ -11,7 +11,7 @@ The main chassis is fabricated out of 3mm thick hardboard fabricated from a lase
 <img src="images/Robot_Drawing_CHASSIS.PNG"  width="537" height="667" align="middle" />
 
 #### **Arm**
-CALVIN's arm is connected a rotating crane which extends from the rear of the chassis, and has the claw mounted by the four front holes. The arm is fabricated from 6mm thick hardboard and is gear actuated by the smaller gear attached to a servo motor (not shown).
+CALVIN's arm is connected to a rotating crane which extends from the rear of the chassis, and has the claw mounted by the four front holes. The arm is fabricated from 6mm thick hardboard and is gear actuated by the smaller gear attached to a servo motor (not shown).
 ![Arm](images/ROBOT_Drawing_ARM.PNG)
 
 #### **Claw and Claw Mount**
@@ -20,9 +20,11 @@ All claw and mount components are fabricated from 3mm thick hardboard, and the f
 ![Claw](images/Robot_Drawing_CLAW.PNG)
 
 #### **H-Bridge Boxes**
+These boxes are constructed out of 3mm hardboard and made specifically to hold our two H-Bridge circuits that drive our two wheel motors. The H-Bridges are mounted under the chassis to conserve space and thus require some form of protection from external contact.
 
 ![H-Bridge Boxes](images/Robot_Drawing_H-BOX.PNG)
 
 #### **TINAH Board Mount and Wire Box**
+This main box is constructed out of 3mm hardboard and is designed to mount our TINAH board face up to allow interactivity with the screen, buttons, knobs, and inputs/outputs while also having space underneath it to sort and hold a majority of CALVIN's wiring.
 
 ![TINAH Mount/Wire Box](images/Robot_Drawing_TINAHBOX.PNG)
