@@ -7,3 +7,7 @@ The majority of CALVIN's components were fabricated out of hardboard material of
 
 ### 2-Dimensional Sketches of CALVIN's Major Mechanical Components:
 ![Main Chassis](images/Robot_Drawing_CHASSIS.PNG)
+![Claw](images/Robot_Drawing_CLAW.PNG)
+![Arm](images/Robot_Drawing_CLAW.PNG)
+![H-Bridge Boxes](images/Robot_Drawing_H-BOX.PNG)
+![TINAH Mount/Wire Box](images/Robot_Drawing_TINAHBOX.PNG)
