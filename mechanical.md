@@ -2,10 +2,10 @@ CALVIN's Mechanical Features
 =====
 Calvin was designed with mechanical simplicity in mind. In order to minimize man-made error in fabrication and assembly of components we created a minimalistic design using a single crane/arm combination with diverse functionality. 
 
-## Materials
+### Materials
 The majority of CALVIN's components were fabricated out of hardboard material of varying thicknesses.
 
-## 2-Dimensional Sketches of CALVIN's Major Mechanical Components:
+### 2-Dimensional Sketches of CALVIN's Major Mechanical Components:
 #### Main Chassis
 ![Main Chassis](images/Robot_Drawing_CHASSIS.PNG)
 #### Arm
