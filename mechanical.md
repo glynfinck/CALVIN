@@ -5,7 +5,7 @@ Calvin was designed with mechanical simplicity in mind. In order to minimize man
 ### Materials
 The majority of CALVIN's components were fabricated out of hardboard material of varying thicknesses.
 
-### 2-Dimensional Sketches of CALVIN's Major Mechanical Components:
+### CALVIN's Major Mechanical Components:
 #### Main Chassis
 
 <img src="images/Robot_Drawing_CHASSIS.PNG"  width="537" height="667" align="middle" />
