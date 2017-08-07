@@ -1,7 +1,9 @@
 Welcome to CALVIN's Website
 ======
 
-Calvin was created by Keenan McConkey, Austin Khorram, and Glyn Finck for the University of British Columbia's Engineering Physics program's annual robot competition. This year's competition involved various tasks the robot must be able to execute such as line following, reading infrared beacons, picking up toys ("agents" as we called them) off platforms in a bucket filled with water and putting these toys into a box to be sent down a zip-line back to the beginning of the course. CALVIN has numerous features he uses as he attempts to complete this difficult challenge and rescue the agents!
+### Introduction to CALVIN
+
+CALVIN was created by Keenan McConkey, Austin Khorram, and Glyn Finck for the University of British Columbia's Engineering Physics program's annual robot competition. This year's competition involved various tasks for the robot to complete, such as line following,  infrared beacon reading, and finally picking up toys ("agents" as we called them) off platforms then putting these toys into a box, which gets to be sent down a zip-line back to the beginning of the course. CALVIN has numerous features he uses as he attempts to complete this difficult challenge and rescue the agents!
 
 ![TINAH Box](images/tinah_box.png)
 
@@ -15,6 +17,10 @@ Calvin was created by Keenan McConkey, Austin Khorram, and Glyn Finck for the Un
 * Servo Motor and Gear Actuated Crane, Arm, and Grabbing Claw
 * TINAH Board (Arduino Board Variant)
 
+### Photo Gallery
+
+
+
 ### Navigating This Site
 
 Check out the pages below to learn more about CALVIN's different features.
@@ -22,8 +28,6 @@ Check out the pages below to learn more about CALVIN's different features.
 * [Mechanical](mechanical.md)
 * [Electrical](electrical.md)
 * [Software](software.md)
-
-### Photo Gallery
 
 ### Support or Contact
 
