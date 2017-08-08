@@ -15,7 +15,7 @@ Calvin was designed with mechanical simplicity in mind. In order to minimize man
 
 ### Major Mechanical Components:
 #### **Main Chassis**
-The main chassis is fabricated out of 3mm thick hardboard fabricated from a laser cutter and assembled with meccano pieces and hot glue. The chassis has many holes cut into it to allow wires and ziplines to weave through it.
+The main chassis is fabricated out of 3mm thick hardboard fabricated from a laser cutter and assembled with meccano pieces and hot glue. The chassis has many holes cut into it to allow wires and zipties to weave through it.
 <img src="images/Robot_Drawing_CHASSIS.PNG"  width="667" height="537" align="middle" />
 
 #### **Arm**
