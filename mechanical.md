@@ -1,9 +1,6 @@
 CALVIN's Mechanical Features
 =====
-Calvin was designed with mechanical simplicity in mind. In order to minimize man-made error in fabrication and assembly of components we created a minimalistic design using a single crane/arm combination with diverse functionality. 
-
-### Materials
-The majority of CALVIN's components were fabricated out of hardboard material of varying thicknesses. (incomplete)
+Calvin was designed with mechanical simplicity in mind. In order to minimize man-made error in fabrication and assembly of components we created a minimalistic design using a single crane/arm combination with diverse functionality. The crane is located on the rear end of the chassis and has 180 degrees of motion to rotate left or right, the arm is mounted atop the crane and has just over 90 degrees of motion to move up and down, and the claw itself is attached to the end of the arm and each claw rotates about 45 degrees to open and close. All these component's motions are actuated by servo motors controlled through the TINAH board which is coded for CALVIN to use his arm to pick up agents, as well as place the agents on the zip-line.
 
 ### CALVIN's Major Mechanical Components:
 #### **Main Chassis**
@@ -19,8 +16,8 @@ All claw and mount components are fabricated from 3mm thick hardboard, and the f
 
 ![Claw](images/Robot_Drawing_CLAW.PNG)
 
-#### **H-Bridge Boxes**
-These boxes are constructed out of 3mm hardboard and made specifically to hold our two H-Bridge circuits that drive our two wheel motors. The H-Bridges are mounted under the chassis to conserve space and thus require some form of protection from external contact.
+#### **H-Bridge/IR Filter Boxes**
+These boxes are constructed out of 3mm hardboard and made specifically to hold our two H-Bridge circuits that drive our two wheel motors. The H-Bridges are mounted under the chassis to conserve space and thus require some form of protection from external contact. A similar box was created for the Infrared signal filter circuit.
 
 ![H-Bridge Boxes](images/Robot_Drawing_H-BOX.PNG)
 
