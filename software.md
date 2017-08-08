@@ -4,7 +4,7 @@ CALVIN's source code was written entirely in the Arduino environment in C. His c
 
 ### Line Follow Loop
 
-![LineFollow](index/Line_Follow_Flow.png)
+![LineFollow](images/flow_lineFollow.png)
 
 
 [Return to Home Page](index.md)
