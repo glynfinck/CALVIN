@@ -2,7 +2,18 @@ CALVIN's Mechanical Features
 =====
 Calvin was designed with mechanical simplicity in mind. In order to minimize man-made error in fabrication and assembly of components we created a minimalistic design using a single crane/arm combination with diverse functionality. The crane is located on the rear end of the chassis and has 180 degrees of motion to rotate left or right, the arm is mounted atop the crane and has just over 90 degrees of motion to move up and down, and the claw itself is attached to the end of the arm and each claw rotates about 45 degrees to open and close. All these component's motions are actuated by servo motors controlled through the TINAH board which is coded for CALVIN to use his arm to pick up agents, as well as place the agents on the zip-line.
 
-### CALVIN's Major Mechanical Components:
+### What Does CALVIN Do?
+#### Line Following
+
+#### Infrared Signal Frequency Detection
+
+#### Accelerate Up a Slope
+
+#### Retrieve Agents
+
+#### Zip-Line!
+
+### Major Mechanical Components:
 #### **Main Chassis**
 The main chassis is fabricated out of 3mm thick hardboard fabricated from a laser cutter and assembled with meccano pieces and hot glue. The chassis has many holes cut into it to allow wires and ziplines to weave through it.
 <img src="images/Robot_Drawing_CHASSIS.PNG"  width="667" height="537" align="middle" />
